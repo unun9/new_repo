@@ -7,7 +7,8 @@
    #1.8    # asd=int(input('Введи число -'))
 # print("Вы ввели - "+str(asd))
 
-
-# asd=int(input("Ведите число  - "))
-# print("следующее за числом "+str(asd)+(asd+1))
-# print("для число - "+str(asd)+"предыдущее число - "+(asd-1))
+  # fg=int(input("Вееди "))
+# we=int(input("vvvedi"))
+# qwwe = int(input("ASD"))
+# print(str(fg) + "  " + str(we) + "  " + str(qwwe))
+print('a)12       б) 234       c)234\n''23d        s34           34')
